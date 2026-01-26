@@ -3,7 +3,7 @@
 ## Install Method
 - Flash jetson-orin-nano-devkit-super-SD-image_JP6.2.1
 
-- Download from github: https://github.com/zhoujingyang1234-1/imx296-jetson
+- https://github.com/zhoujingyang1234-1/imx296-jetson.git
 
 - sudo tar -xvf linux-5.15.148-tegra-imx296.tar.xz -C /
 
